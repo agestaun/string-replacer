@@ -5,7 +5,7 @@ Util to format the translations strings using https://github.com/ALMaclaine/repl
 ### How to run it?
 
 Run the following command line.
->npx ts-node index.ts
+>npm run
 
 ### What does it do?
 It replaces any string key to use lowercase, separate the strings by underscore and remove "COMMON" prefix. Here's an example:
