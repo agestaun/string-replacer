@@ -1,0 +1,27 @@
+{
+  "author": "Adrian Garcia Estaun",
+  "name": "string-replacer",
+  "version": "1.0.0",
+  "description": "Replace strings to apply a specific format to string translation files",
+  "keywords": [
+    "string formatting",
+    "i18",
+    "format",
+    "translation"
+  ],
+  "main": "index.ts",
+  "type": "commonjs",
+  "scripts": {
+    "run": "npx ts-node index.ts",
+    "test": "jest"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "flat": "^5.0.2",
+    "glob": "^8.1.0",
+    "replace": "1.2.2"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.18"
+  }
+}
