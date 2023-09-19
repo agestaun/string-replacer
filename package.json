@@ -12,7 +12,7 @@
   "main": "index.ts",
   "type": "commonjs",
   "scripts": {
-    "run": "npx ts-node index.ts",
+    "replace": "npx ts-node index.ts",
     "test": "jest"
   },
   "license": "MIT",
