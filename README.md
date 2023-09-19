@@ -1,6 +1,6 @@
 # String Replacer
 
-Util to format the translations strings using https://github.com/ALMaclaine/replace.
+Small project to format the translations strings using https://github.com/ALMaclaine/replace.
 
 ### How to run it?
 
