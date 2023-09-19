@@ -1,4 +1,4 @@
-# String Replacer
+# String Key Formatter 🧼📜
 
 Small project to format the translations strings using https://github.com/ALMaclaine/replace.
 
